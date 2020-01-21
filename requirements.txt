@@ -1,0 +1,6 @@
+pandas
+scipy
+numpy
+scikit-image==0.15.0
+sklearn
+pillow
